@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<thanu.h>
 int main()
 {
     printf("thanu");
