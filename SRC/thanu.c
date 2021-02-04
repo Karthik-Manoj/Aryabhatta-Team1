@@ -1,5 +1,6 @@
 #include<thanu.h>
-int main()
+
+int thanu()
 {
     printf("thanu");
     return 0;
