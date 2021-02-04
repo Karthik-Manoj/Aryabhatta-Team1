@@ -2,6 +2,8 @@
 int main()
 {
     printf("Hello,World!");
- 
-    return 0;
+    printf("my name is thanu");
+    return 0;//testing
+    //indra testing
+    //testing thanu
 }
