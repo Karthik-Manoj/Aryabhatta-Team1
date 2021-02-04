@@ -4,7 +4,7 @@ BUILD = build
 
 SRC = TicTacToe_main.c\
 src/rajath.c\
-src/Check_state.c\
+src/nisha.c\
 src/Draw_board.c\
 src/Player_input.c\
 
