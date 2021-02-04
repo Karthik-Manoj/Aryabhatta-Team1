@@ -3,15 +3,15 @@ PROJECT_NAME = Aryabhatta-Team1
 BUILD = build
 
 SRC = main1.c\
-SRC/bhavya.c\
-SRC/Karthik.c\
-SRC/nisha.c\
-SRC/phani.c\
-SRC/rajath.c\
-SRC/sairaj.c\
-SRC/santhrupthi.c\
-SRC/shubham.c\
-SRC/thanu.c\
+src/bhavya.c\
+src/Karthik.c\
+src/nisha.c\
+src/phani.c\
+src/rajath.c\
+src/sairaj.c\
+src/santhrupthi.c\
+src/shubham.c\
+src/thanu.c\
 
 INC	= -Iinc
 
@@ -24,7 +24,8 @@ $(PROJECT_NAME):all
 .PHONY: run clean test  doc all
 
 all: $(SRC) $(BUILD)
-	gcc $(SRC) $(INC) -o $(PROJECT_OUTPUT).out
+	gcc $(src
+) $(INC) -o $(PROJECT_OUTPUT).out
   
 run:$(PROJECT_NAME)
 	./$(PROJECT_OUTPUT).out
