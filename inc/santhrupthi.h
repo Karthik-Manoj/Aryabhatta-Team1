@@ -2,5 +2,6 @@
 #define _SANTHRUPTHI_H_
 
 #include<stdio.h>
+int santhrupthi();
 
 #endif
