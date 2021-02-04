@@ -3,7 +3,7 @@ PROJECT_NAME = Aryabhatta-Team1
 BUILD = build
 
 SRC = TicTacToe_main.c\
-src/Best_score.c\
+src/rajath.c\
 src/Check_state.c\
 src/Draw_board.c\
 src/Player_input.c\
