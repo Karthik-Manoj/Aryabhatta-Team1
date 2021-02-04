@@ -2,6 +2,6 @@
 
 int shubham()
 {
-    printf("This is Shubham")
+    printf("This is Shubham");
     return 0;
 }

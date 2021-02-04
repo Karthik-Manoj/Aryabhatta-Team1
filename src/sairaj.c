@@ -1,6 +1,6 @@
 #include<sairaj.h>
 
-int sairaj{
+int sairaj(){
     printf("This is sairaj");
     return 0;
 }
