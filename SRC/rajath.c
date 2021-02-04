@@ -1,6 +1,7 @@
 #include<rajath.h>
-int rajath()
-{
+ int rajath()
+{ 
+   
     printf("this is Rajath!");
     return 0;
 }
