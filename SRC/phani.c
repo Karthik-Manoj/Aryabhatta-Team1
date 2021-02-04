@@ -1,5 +1,5 @@
 #include<phani.h>
-int main()
+int phani()
 {
     printf("this is phani!");
     return 0;
