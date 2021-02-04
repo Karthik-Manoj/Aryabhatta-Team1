@@ -1,5 +1,6 @@
 #include<santhrupthi.h>
-int main()
+int santhrupthi()
 {
     printf("santhrupthi");
+    return 0;
 }
