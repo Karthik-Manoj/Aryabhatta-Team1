@@ -1,5 +1,5 @@
-#ifndef _NISHA_H_
-#define _NISHA_H_
+#ifndef _NISHA_H__
+#define _NISHA_H__
 
 #include<stdio.h>
 
