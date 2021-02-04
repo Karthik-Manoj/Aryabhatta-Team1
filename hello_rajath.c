@@ -6,5 +6,9 @@ int main()
     //indra testing
     //shubham testing
     //bhavya testing
-    printf("This is bhavya");
+<<<<<<< HEAD
+
+=======
+    printf("hello phani");
+>>>>>>> 28c9e0af2471a7a00a8926f15f59441a882a9a9f
 }
