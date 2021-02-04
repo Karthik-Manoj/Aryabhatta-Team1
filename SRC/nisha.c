@@ -1,7 +1,6 @@
 #include<nisha.h>
 
-int main()
-{
+int main(){
     printf("this is Nisha");
     return 0;
 }
