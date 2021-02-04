@@ -9,5 +9,7 @@ int main(){
     printf("this is bhavya\n");
     printf("Nisha\n");
     printf("This is sairaj\n");
+    printf("phani");
+    return 0;
 
 }
