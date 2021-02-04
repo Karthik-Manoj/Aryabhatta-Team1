@@ -13,7 +13,7 @@ src/santhrupthi.c\
 src/shubham.c\
 src/thanu.c\
 
-
+  
 
 
 INC	= -Iinc
