@@ -7,5 +7,6 @@ int main(){
     printf(" Thanu");
     printf("Shubham S N");
     printf("this is bhavya");
+    printf("Nisha");
 
 }
