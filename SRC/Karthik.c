@@ -1,5 +1,6 @@
 #include<karthik.h>
 
 int main(){
-    printf("karthik manoj")
+    printf("karthik manoj");
+    return 0;
 }
