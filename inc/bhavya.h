@@ -2,5 +2,6 @@
 #define __BHAVYA_H__
 
 #include<stdio.h>
+int bhavya();
 
 #endif 

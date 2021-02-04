@@ -1,5 +1,5 @@
 #include<bhavya.h>
-int main()
+int bhavya()
 {
     printf("this is bhavya");
     return 0;
