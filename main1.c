@@ -6,3 +6,8 @@
 #include<santhrupthi.h>
 #include<shubham.h>
 #include<sairaj.h>
+
+int main(){
+    bhavya();
+    karthik();
+}
