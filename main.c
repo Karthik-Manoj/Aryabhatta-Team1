@@ -4,5 +4,8 @@ int main(){
     printf("Karthik Manoj");
     printf("Hello from Rajath!!");
     printf("santhrupthi");
+    printf(" Thanu");
+    printf("Shubham S N");
     printf("this is bhavya");
+
 }
