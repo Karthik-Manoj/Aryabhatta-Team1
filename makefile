@@ -9,7 +9,7 @@ src/Draw_board.c\
 src/Player_input.c\
 
 TEST_SRC = src/Best_score.c\
-src/Check_state.c\
+src/rajath.c\
 src/Draw_board.c\
 src/Player_input.c\
 test/Test_TicTacToe.c\
