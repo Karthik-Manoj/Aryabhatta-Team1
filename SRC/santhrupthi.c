@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<santhrupthi.h>
 int main()
 {
     printf("santhrupthi");
