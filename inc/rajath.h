@@ -2,5 +2,6 @@
 #define __RAJATH_H__
 
 #include<stdio.h>
+int rajath();
 
 #endif 
