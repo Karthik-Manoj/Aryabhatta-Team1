@@ -2,19 +2,16 @@ PROJECT_NAME = Aryabhatta-Team1
 
 BUILD = build
 
-SRC = TicTacToe_main.c\
-src/rajath.c\
-src/nisha.c\
-src/Draw_board.c\
-src/Player_input.c\
-
-TEST_SRC = src/Best_score.c\
-src/Check_state.c\
-src/Draw_board.c\
-src/Player_input.c\
-test/Test_TicTacToe.c\
-
-TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
+SRC = main1.c\
+SRC/bhavya.c\
+SRC/Karthik.c\
+SRC/nisha.c\
+SRC/phani.c\
+SRC/rajath.c\
+SRC/sairaj.c\
+SRC/santhrupthi.c\
+SRC/shubham.c\
+SRC/thanu.c\
 
 INC	= -Iinc
 
@@ -34,13 +31,7 @@ run:$(PROJECT_NAME)
 	
 doc:
 	make -C ./documentation
-
-
-test:$(BUILD)
-	gcc $(TEST_SRC) $(INC) -o $(TEST_OUTPUT) -lcunit
-	./$(TEST_OUTPUT)
-  
-  
+	
 clean:
 	rm -rf $(BUILD) $(DOCUMENTATION_OUTPUT)
   
